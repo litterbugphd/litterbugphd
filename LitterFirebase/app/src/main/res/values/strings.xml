@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LitterFirebase</string>
+    <string name="MU_logo" />
+    <string name="consentButton">I agree, Let\'s Play</string>
+    <string name="Hello">Welcome to the Rubbish Survey!  Thank you for agreeing to take part in this 15 to 20-minute interactive survey. Today I will be gaining some information from you regarding how you feel about marine litter. This information is all anonymous and will be used to fulfill Ph.D research requirements through Murdoch University. Please be assured that all the answers you provide are strictly confidential.</string>
+    <string name="b2">I Agree</string>
+    <string name="b3">Log Out</string>
+    <string name="b0">Begin Survey</string>
+    <string name="image">image</string>
+    <string name="NextButton">Next</string>
+    <string name="too_dirty">Too Dirty</string>
+    <string name="harmful_to_self">Harmful to self</string>
+    <string name="harmful_to_others">Harmful to others</string>
+    <string name="harmful_to_wildlife">Harmful to wildlife</string>
+    <string name="hard_to_pick_up">Hard to pick up</string>
+    <string name="other">Other</string>
+    <string name="photoid">PhotoId</string>
+</resources>

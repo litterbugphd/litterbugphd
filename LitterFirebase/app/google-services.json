@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187087616403",
+    "firebase_url": "https://litter-6770e.firebaseio.com",
+    "project_id": "litter-6770e",
+    "storage_bucket": "litter-6770e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187087616403:android:13d64ccc829914baa11066",
+        "android_client_info": {
+          "package_name": "com.e.litterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187087616403-fhc0flbll2dsjnoqvrt0ujnpah9spse6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.litterfirebase",
+            "certificate_hash": "983b02f9c6409b465a60c5f528b056e41605f5d3"
+          }
+        },
+        {
+          "client_id": "187087616403-dofp9l34bv0rlfe0pb3ap3ogili866jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKk5E1AlMGry-C6IwmTvyLvaPOgV2nkjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187087616403-dofp9l34bv0rlfe0pb3ap3ogili866jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
